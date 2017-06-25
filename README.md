@@ -1,1 +1,1 @@
-# cogeo
+# Co-ordinate Geometry Library
